@@ -56,7 +56,7 @@ git clone https://github.com/MisbahKhan789/SDS-dataset.git
 cd SDS-dataset
 ```
 
-Related Research
+## Related Research
 This dataset supports research presented in the paper:
 
 Title: A Machine Learning Driven Automated System to Extract Multiple Information Fields from Safety Data Sheet Documents
@@ -65,7 +65,7 @@ The system provides a multi-step extraction method, built for commercial usage, 
 For more details, refer to the full paper available upon request.
 
 
-Contact
+## Contact
 For questions or further information, please contact:
 Misbah Khan: mkhan@ehs.com | misbahkhan789@gmail.com
 
