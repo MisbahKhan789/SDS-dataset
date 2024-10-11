@@ -8,11 +8,8 @@ This repository contains the **SDS Dataset**, supporting the paper titled *"A Ma
 2. [Dataset Details](#dataset-details)
 3. [Data Structure](#data-structure)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Related Research](#related-research)
-7. [License](#license)
-8. [Contributing](#contributing)
-9. [Contact](#contact)
+5. [Related Research](#related-research)
+6. [Contact](#contact)
 
 ## Overview
 
