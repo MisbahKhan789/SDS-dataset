@@ -60,7 +60,9 @@ cd SDS-dataset
 This dataset supports research presented in the paper:
 
 Title: A Machine Learning Driven Automated System to Extract Multiple Information Fields from Safety Data Sheet Documents
+
 Authors: Misbah Khan, Julia Penfield, Aatish Suman, Stephanie Crowell
+
 The system provides a multi-step extraction method, built for commercial usage, combining machine learning and expert systems to achieve high performance/ metrics. 
 For more details, refer to the full paper available upon request.
 
